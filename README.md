@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tien Dat</h1>
 <h3 align="center">A passionate Full Stack Developer in Vietnam</h3>
 
-- 🔭 I’m currently working on [UniCorT](https://github.com/NguyenTienDat377/UniCorT)
+- 🔭 I’m currently working on [SQLVerify](https://github.com/NguyenTienDat377/SQLVerify)
 
 - 🌱 I’m currently learning **Spring Boot, React**
 
