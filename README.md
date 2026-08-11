@@ -1,26 +1,88 @@
-<h1 align="center">Hi 👋, I'm Nguyen Tien Dat</h1>
-<h3 align="center">A passionate Full Stack Developer in Vietnam</h3>
+# Hi, I'm Đạt 👋
 
-- 🔭 I’m currently working on [SQLVerify](https://github.com/NguyenTienDat377/SQLVerify)
+Backend engineer based in Hanoi, Vietnam — I like systems that stay correct under concurrency, and I write down *why* a design decision was made, not just what it does.
 
-- 🌱 I’m currently learning **Spring Boot, React**
+Currently: Java/Spring Boot backend work, with a growing interest in constraint solving (Z3/SMT) applied to real developer tooling.
 
-- 👨‍💻 All of my projects are available at [https://github.com/NguyenTienDat377](https://github.com/NguyenTienDat377)
+---
 
-- 💬 Ask me about **Java, Spring Boot, Python, DSA, OOP, RDBMS**
+## 🔧 What I've built
 
-- 📫 How to reach me **ntdat377@gmail.com**
+### [abp — API Billing Platform](https://github.com/NguyenTienDat377/abp)
+`Java` `Spring Boot` `Resilience4j` `Kafka` `RabbitMQ` `PostgreSQL` `Redis` `Docker`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nguyen tien dat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nguyen tien dat" height="30" width="40" /></a>
-<a href="https://fb.com/nguyen tien dat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyen tien dat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ntdat377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ntdat377" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ntdat377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ntdat377" height="30" width="40" /></a>
-</p>
+A modular monolith for merchant API billing, split into 5 bounded contexts by data ownership rather than call patterns.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- Atomic `INSERT ... ON CONFLICT DO UPDATE` + DB-level unique constraints prevent lost updates and double-subscribes — no read-then-write races.
+- Per-merchant Resilience4j bulkhead + circuit breaker, so one bad merchant can't starve every other tenant's requests.
+- Redis cache-aside for merchant routing/pricing (read:write ratio ~10⁵), with a fail-open `CacheErrorHandler` — a Redis outage degrades gracefully instead of taking the gateway down.
+- Dual messaging: RabbitMQ drives the operational write with queue-based load leveling; the same event is republished to Kafka (partitioned by `merchant_id`) as a durable, independently replayable audit log.
+- UUIDv7 primary keys for B-tree write locality under high-volume inserts.
+- Verified with dedicated k6 load tests and Testcontainers integration tests.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentiendat377&show_icons=true&locale=en&layout=compact" alt="nguyentiendat377" /></p>
+### [Skolem — Formal Verification for AI-Generated SQL](https://github.com/NguyenTienDat377/Skolem)
+`Python` `FastAPI` `Z3/SMT` `Supabase` `Docker`
 
+Given a DDL schema and two SQL queries, Skolem uses **Z3 SMT solving** to formally prove semantic equivalence — or produce the exact counterexample database where they diverge. Not linting, not heuristics: deterministic proof.
+
+- **Three delivery surfaces, one engine**: a web UI for manual review, a CI/CD JSON endpoint for pipelines, and an **MCP server so AI coding agents (Claude Code, Cursor) call verification in-loop** — powering a counterexample-driven self-healing repair loop.
+- Fail-closed encoding: any SQL outside the supported subset is rejected with an error rather than silently dropped (a dropped predicate could produce a false "equivalent").
+- Witness cross-check: a `divergent` verdict is re-run against a concrete SQLite witness before being trusted, to catch encoder bugs rather than showing a fake counterexample.
+- GitHub OAuth + magic-link auth, per-user API keys, Supabase/Postgres with RLS, billing via Lemon Squeezy (fails open on metering errors), circuit breaker on LLM calls.
+- 7 test suites: smoke tests, regression tests from the [VeriEQL paper](https://github.com/NguyenTienDat377/Skolem/blob/master/docs/references/veriEQL-2024.pdf), and differential fuzzing against SQLite.
+
+### [InstaClone](https://github.com/NguyenTienDat377/InstaClone)
+`Java 21` `Spring Boot 3.5` `Spring Security` `Redis` `MySQL` `MinIO` `Docker`
+
+An Instagram-style backend with a layered architecture (controller/service/repository) grouped by domain (auth, feed, profile).
+
+- Google OAuth2 login via Spring Security with auto-provisioned users.
+- Redis-backed distributed HTTP sessions (Spring Session) for horizontal scalability.
+- MinIO (S3-compatible) object storage for image uploads.
+- Centralized exception handling via `@RestControllerAdvice`, mapping domain exceptions to stable HTTP status codes.
+- Full stack containerized with Docker Compose (MySQL, Redis, MinIO, backend), documented via auto-generated OpenAPI/Swagger.
+
+### [go-api-gateway](https://github.com/NguyenTienDat377/go-api-gateway)
+`Go` `SQLite`
+
+A dynamic API gateway: SQLite-backed route table, matched by path/method/header, behind a thread-safe router (`sync.RWMutex`, concurrent reads under exclusive writes).
+
+- Runtime admin API (`POST /admin/routes`) to register routes without a restart or touching SQL by hand.
+- Two pluggable rate-limiting strategies (token bucket, fixed window) — defaults to token bucket to avoid the boundary-burst problem fixed windows allow at window edges.
+
+### [LCHelper](https://github.com/NguyenTienDat377/LCHelper)
+`Python` `discord.py` `PostgreSQL` `Redis`
+
+Discord bot for **Lowie's LeetCode Community**, a 250-member university LeetCode practice club running since 2024.
+
+- Contributed features: username-based profile lookup, submission embed rendering.
+- Built on a SQLAlchemy-backed relational schema (problems, topics, missions) with a cogs-based command architecture.
+- Collaborated through PR review cycles with teammates.
+- I also contribute structured solution write-ups (approach, complexity analysis) to the club's daily-solutions channel by signing up for specific days.
+
+---
+
+## 🌱 Open Source
+
+- **[resilience4j #2503](https://github.com/resilience4j/resilience4j/pull/2503)** — changed `BulkheadConfig`'s constructor visibility to `protected` to enable subclassing for custom metadata, with an added test.
+- **[testcontainers-java #11964](https://github.com/testcontainers/testcontainers-java/pull/11964)** — self-identified and fixed a silent-null-return bug in `BrowserWebDriverContainer.getSeleniumAddress()`, replacing it with a fail-fast exception.
+- **[google/highway #3248](https://github.com/google/highway/pull/3248)** *(merged)* — redesigned CI to run the full compiler matrix only on a weekly schedule instead of every PR, cutting CI jobs per pull request from 28 to 11.
+
+---
+
+## 🎓 Background
+
+- B.S. Computer Science, VNU University of Engineering and Technology (2022 – 2026)
+- Software Engineer Intern, NAB Innovation Center — Java Spring Boot, Kafka microservices, Jenkins/Snyk/Harness
+- Semi-Finalist, Code Tour 2024 (VNG-organized competitive programming event)
+- AWS Cloud Practitioner · Kaggle Bronze Medal · IELTS Overall 7.0 (C1)
+
+## 📚 Academic / Research (Constraint Solving)
+
+- **[AlienTile](https://github.com/NguyenTienDat377/AlienTile)** — Bachelor's Thesis: solver comparison for a tiling/coloring problem across CP-SAT, CPLEX (CP and ILP), and Gurobi.
+- **[BoardPackagingSATConvert](https://github.com/NguyenTienDat377/BoardPackagingSATConvert)** — related earlier work on the Board Packing Problem: pseudo-Boolean SAT encoding in Java (at-most-one placement constraints, etc.).
+- **[UniCorT](https://github.com/NguyenTienDat377/UniCorT)** — SAT/MaxSAT-based university course timetabling (Google OR-Tools CP-SAT), built on Alexander Lemos's UniCorT with constraints for room conflicts, day/time spacing, and precedence.
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/dat-nguyen-tien-2b734b21a/) · ntdat377@gmail.com
